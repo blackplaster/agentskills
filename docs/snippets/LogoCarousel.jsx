@@ -42,7 +42,7 @@ export const LogoCarousel = () => {
     },
     {
       name: "OpenHands",
-      url: "https://www.all-hands.dev/",
+      url: "https://openhands.dev/",
       lightSrc: "/images/logos/openhands/openhands-logo-light.svg",
       darkSrc: "/images/logos/openhands/openhands-logo-dark.svg",
       instructionsUrl: "https://docs.openhands.dev/overview/skills",
